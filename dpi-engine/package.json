@@ -1,0 +1,16 @@
+{
+  "name": "dpi-engine",
+  "version": "1.0.0",
+  "description": "DPI Engine - Deep Packet Inspection System in Node.js + React",
+  "scripts": {
+    "install:all": "npm install --prefix backend && npm install --prefix frontend",
+    "backend": "npm start --prefix backend",
+    "frontend": "npm start --prefix frontend",
+    "dev": "concurrently \"npm run backend\" \"npm run frontend\"",
+    "cli:demo": "node backend/cli.js --demo --block-app YouTube --block-app TikTok --block-ip 192.168.1.50",
+    "cli:help": "node backend/cli.js --help"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
