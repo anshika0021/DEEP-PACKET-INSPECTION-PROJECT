@@ -238,7 +238,7 @@ Or download sample captures from:
 ---
 
 ## 🗺 Architecture Summary
-
+## Minor Update for Pull Shark Badge
 ```
 Browser (React)
     ↕  HTTP/JSON
