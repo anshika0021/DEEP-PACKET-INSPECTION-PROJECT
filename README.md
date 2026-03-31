@@ -4,6 +4,7 @@ A full JavaScript implementation of the DPI system — no C++, no compilation.
 Built for MERN stack developers. Runs entirely with Node.js and React.
 
 ---
+## Final update for Pull Shark 🚀
 
 ## 📁 Project Structure
 
@@ -61,7 +62,7 @@ npm install
 ### Step 2A: Run as Web App (React + Express)
 
 Open **two terminals**:
-
+## Second PR for Pull Shark Badge 🔥
 **Terminal 1 — Backend API:**
 ```bash
 cd dpi-engine/backend
@@ -75,6 +76,7 @@ cd dpi-engine/frontend
 npm start
 # → UI opens at http://localhost:3000
 ```
+## Second update for Pull Shark Badge
 
 Then open `http://localhost:3000` in your browser.
 
