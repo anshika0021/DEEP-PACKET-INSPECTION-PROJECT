@@ -1,5 +1,3 @@
-## Second update for Pull Shark Badge
-
 # 🔍 DPI Engine — Deep Packet Inspection in Node.js + React
 
 A full JavaScript implementation of the DPI system — no C++, no compilation.  
@@ -77,6 +75,7 @@ cd dpi-engine/frontend
 npm start
 # → UI opens at http://localhost:3000
 ```
+## Second update for Pull Shark Badge
 
 Then open `http://localhost:3000` in your browser.
 
